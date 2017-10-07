@@ -1,0 +1,7 @@
+# Ignore Composer files.
+vendor
+composer.lock
+
+# Ignore NPM files.
+node_modules
+
